@@ -3,7 +3,8 @@ Bulletjs
 
 Bullet JS is a library for parsing .bullet files into Javascript object. .bullet files are ~47% smaller than JSON and XML
   *****
-  
+##Dependency
+  **Jquery**
 ##How to parse
   Load Bullet.min.js<br>
   Get content of the .bullet file into a string.<br>
